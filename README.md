@@ -1,5 +1,5 @@
 # MAX4080F
-76V, High-Side, Current-Sense Amplifiers with Voltage Output. Gain 5V/V.
+76V, High-Side, Current-Sense Amplifiers with Voltage Output. Gain 5V/V
 
 AE01001458
 
